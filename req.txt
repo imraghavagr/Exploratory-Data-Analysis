@@ -22,6 +22,8 @@ entrypoints==0.4
     # via
     #   -r req.in
     #   jupyter-client
+et-xmlfile==1.1.0
+    # via openpyxl
 executing==0.8.2
     # via stack-data
 fonttools==4.29.1
@@ -59,6 +61,8 @@ numpy==1.22.2
     #   pandas
     #   scipy
     #   seaborn
+openpyxl==3.0.9
+    # via -r req.in
 packaging==21.3
     # via matplotlib
 pandas==1.4.1
