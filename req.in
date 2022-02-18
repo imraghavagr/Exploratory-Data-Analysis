@@ -3,3 +3,5 @@ wincertstore
 entrypoints
 ipykernel
 pandas
+matplotlib
+seaborn
